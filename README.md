@@ -7,6 +7,6 @@ Outside work, I maintain [mlx-tune](https://github.com/ARahim3/mlx-tune) and com
 
 - Blog — [arahim3.github.io](https://arahim3.github.io)
 - LinkedIn — https://www.linkedin.com/in/arahim3/
-- Twitter/X — [https://x.com/_ARahim_](https://x.com/_ARahim_)
+- Twitter/X — [`_ARahim_`](https://x.com/_ARahim_)
 - Kaggle — https://www.kaggle.com/rahim3
 - Email — erahim3@gmail.com
