@@ -1,6 +1,6 @@
 ### Abdur Rahim
 
-Senior AI Engineer at **ESAP** (Saudi Arabia), working remotely from Bangladesh. I build real-time voice agents with Pipecat, Arabic RAG pipelines, and fine-tune STT and LLMs for in-house use cases — mostly whatever it takes to keep production from falling over.
+Senior AI Engineer at [**ESAP**](https://www.esap.ai/en) (Saudi Arabia), working remotely from Bangladesh. I build real-time voice agents with Pipecat, Arabic RAG pipelines, and fine-tune STT and LLMs for in-house use cases — mostly whatever it takes to keep production from falling over.
 
 Outside work, I maintain [mlx-tune](https://github.com/ARahim3/mlx-tune) and compete on Kaggle.
 
