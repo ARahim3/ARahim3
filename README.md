@@ -5,7 +5,7 @@ Senior AI Engineer at [**ESAP**](https://www.esap.ai/en) (Saudi Arabia), working
 Outside work, I maintain [mlx-tune](https://github.com/ARahim3/mlx-tune) and compete on Kaggle.
 
 
-- Blog — [arahim3.github.io](https://arahim3.github.io)
+- Blog — [arahim.dev](https://arahim.dev/)
 - LinkedIn — https://www.linkedin.com/in/arahim3/
 - Twitter/X — [`@_ARahim_`](https://x.com/_ARahim_)
 - Kaggle — https://www.kaggle.com/rahim3
