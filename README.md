@@ -8,6 +8,7 @@ Outside work, I build open-source tools for **MLX on the Mac** and **JAX on TPUs
 - LinkedIn: [in/arahim3](https://www.linkedin.com/in/arahim3/)
 - X: [`@_ARahim_`](https://x.com/_ARahim_)
 - Kaggle: [rahim3](https://www.kaggle.com/rahim3)
+- YouTube: [ARahim3](https://www.youtube.com/@ARahim3)
 - Email: erahim3@gmail.com
 
 ☕ If my work helped you, you can [buy me a coffee](https://arahim3.gumroad.com/l/support). Everything stays free and open source.
